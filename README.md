@@ -23,6 +23,7 @@ To help students, job seekers, and professionals improve their LinkedIn presence
       Bash
       pip install -r requirements.txt
       python -m streamlit run streamlit_app.py
+🌐 Live Demo: https://linkedin-profile-optimizer-uqryvkqnnwx6q8qdjzy25w.streamlit.app/
 🌐 Future Improvements
       * Resume upload PDF support
       * LinkedIn profile scraping
